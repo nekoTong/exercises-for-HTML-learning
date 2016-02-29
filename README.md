@@ -1,3 +1,2 @@
-# use-of-style-and-text-align-for-HTML
-Use of 'style' and 'text-align' for HTML.
 This is one exercise for learning HTML.
+In this exercise I try to use key words 'style' and 'text-align'.
